@@ -1,7 +1,7 @@
 Data Model
 
-
-
+Batch_Resubmission_Item__c
+<img width="1011" height="575" alt="image" src="https://github.com/user-attachments/assets/77db1c21-c94d-4b5c-8080-8ca8a1793549" />
 
 Apex Classes
 
@@ -15,7 +15,7 @@ Apex Classes
  - ResubmissionLauncherBatch_Test.cls
 
 Step 1: Deploy del Framework
-Installa il framework tramite questo link
+Installa il framework tramite questo link: https://login.salesforce.com/packaging/installPackage.apexp?p0=04tJ7000000osiq
 
 Step 2: Adattamento dei Batch Esistenti
 Per rendere un tuo batch compatibile con il framework, assicurati che segua queste convenzioni:
