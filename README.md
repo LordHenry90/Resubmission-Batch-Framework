@@ -15,7 +15,7 @@ Apex Classes
  - ResubmissionLauncherBatch_Test.cls
 
 Step 1: Deploy del Framework
-Installa il framework tramite questo link: https://login.salesforce.com/packaging/installPackage.apexp?p0=04tJ7000000osiq
+Installa il framework tramite questo link: https://login.salesforce.com/packaging/installPackage.apexp?p0=04tJ7000000osiv
 
 Step 2: Adattamento dei Batch Esistenti
 Per rendere un tuo batch compatibile con il framework, assicurati che segua queste convenzioni:
